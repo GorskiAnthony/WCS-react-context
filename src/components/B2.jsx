@@ -1,6 +1,6 @@
 const B2 = () => {
 	return (
-		<div>
+		<div className="block">
 			<h1>B2</h1>
 		</div>
 	);
