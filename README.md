@@ -9,9 +9,17 @@
 > Nous allons appréhender le contexte de React.
 > Ce repo possèdera 2 branches. Une branche avec le système de props drilling et une branche avec le contexte.
 
-### 🏠 Homepage
+### 🏠 Architecture
 
 ![screenshot](./_docs/arbre_components.png)
+
+### Props drilling
+
+![screenshot](./_docs/props_drilling.png)
+
+### Context
+
+![screenshot](./_docs/context.png)
 
 ## Install
 
